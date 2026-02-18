@@ -1,3 +1,4 @@
+
 Vehicle Inventory & Booking System (Django REST API)
 
 A complete Vehicle Inventory & Booking REST API built using Django and Django REST Framework.
@@ -66,3 +67,4 @@ http://127.0.0.1:8000/api/bookings/1 # booking based on id
     "total_amount": "15000.00",
     "vehicle": 2
 }
+
